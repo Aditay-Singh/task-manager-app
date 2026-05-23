@@ -273,7 +273,7 @@ http://localhost:5173
 
 # Author
 
-Developed by Aditay
+Developed by Aditya
 
 ---
 
